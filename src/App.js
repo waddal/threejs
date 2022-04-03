@@ -46,9 +46,9 @@ function App() {
 
 				{/* Add Objects Here */}
 				<Box />
-				<Sphere />
-				<Cylinder />
-				<Plane />
+				{/* <Sphere />
+				<Cylinder /> */}
+				{/* <Plane /> */}
 
 			</Suspense>
 
